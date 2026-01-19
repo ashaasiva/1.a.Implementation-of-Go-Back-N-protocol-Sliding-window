@@ -24,7 +24,8 @@ Enter the IP address of the remote machine, port address of both local & remote 
 Choose the file and verify the Go-Back-N protocol operation.
 
 📄 Program
-c
+
+
 #include <stdio.h>
 /* Assume 7 frames of data are to be sent using GO BACK N ARQ */
 #define window_size 4
