@@ -65,22 +65,6 @@ void main() {
     printf("\nAll frames sent successfully.\n");
 }
 🖥️ Sample Output
-Code
-SLIDING WINDOW PROTOCOL
-GO BACK N ARQ
-Enter the number of frames: 7
-Content for frame 1: A
-Content for frame 2: B
-Content for frame 3: C
-Content for frame 4: D
-Content for frame 5: E
-Content for frame 6: F
-Content for frame 7: G
-
-Sending frames...
-Enter frame number with no ACK (0 if all acknowledged): 0
-All frames acknowledged. Moving window forward.
-
-All frames sent successfully.
+"C:\Users\ASUS\OneDrive\Pictures\Screenshots 1\7a.png"
 ✅ Result
 Thus, the Go-Back-N protocol (Sliding Window) was implemented and the output was verified successfully.
